@@ -1,5 +1,5 @@
-Hi ! I'm Antoine, a 14 years old interested in game developement.
-I mostly do python, scratch (yes), a bit of C++, and I have a very little knowledge of web dev (but I'm not interested in).
+Hi ! I'm Antoine, a 15 years old interested in game developement.
+I mostly code for fun in python qnd scratch (yes), but I know C++, lua and JS too ! .
 
 I exist on github, but that's it.
 
